@@ -20,4 +20,4 @@ A simple blogging platform built with Node.js, Express, EJS, and MongoDB — all
   - Supports image uploads for blogs saved under `public/uploads/`
   - Default placeholder image ( `public/images/default.png` )
 
-- 🛠️ **Application Structure**
+
